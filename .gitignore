@@ -2,3 +2,7 @@
 *.gz
 *.pth
 *.png
+*.zip
+*.csv
+./retrieved_covers/*.png
+./retrieved_covers/
